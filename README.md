@@ -8,6 +8,7 @@ Este proyecto forma parte de una serie de proyectos para practicar React + TypeS
 * React
 * TypeScript
 * Vite
+* Tailwind Css
 
 ##  Funcionalidades
 
